@@ -1,0 +1,127 @@
+[
+    {
+        "projectId": "1",
+        "projectName": "Influencer Proucts",
+        "projectType": "Photography Website",
+        "projectCategory": "html",
+        "projectTime": "January, 2022",
+        "projectDescription": "This is a photo related website which is created with html & vanilla css only. This site is a mobile responsive website.",
+        "projectDetails": "This is a photography related website which is created with html & vanilla css only. This site is a mobile responsive website.",
+        "projectIMG": "https://i.ibb.co/pnfjX4M/assignment.png",
+        "projectIMG2": "",
+        "projectIMG3": "",
+        "projectLiveSite": "https://aburaian.github.io/assignment-two/",
+        "projectClientCode": "https://github.com/Aburaian/assignment-two",
+        "projectServerCode": ""
+    },
+    {
+        "projectId": "2",
+        "projectName": "Dream World Convention Center",
+        "projectType": "Convention Center",
+        "projectCategory": "html",
+        "projectTime": "January, 2022",
+        "projectDescription": "This is a Convention Center related website which is created with html & vanilla css only. This site is also mobile responsive.",
+        "projectDetails": "This is a Convention Center related website which is created with html & vanilla css only. This site is also mobile responsive.",
+        "projectIMG": "https://i.ibb.co/Zfqbvf5/convention-center.png",
+        "projectIMG2": "",
+        "projectIMG3": "",
+        "projectLiveSite": "https://dream-world-convention-center.netlify.app/",
+        "projectClientCode": "https://github.com/Aburaian/convention-center",
+        "projectServerCode": ""
+    },
+    {
+        "projectId": "3",
+        "projectName": "Master of Finance",
+        "projectType": "Accounting website",
+        "projectCategory": "Javascript",
+        "projectTime": "March, 2022",
+        "projectDescription": "This is a accounting website income, expenses calculation using vanilla JavaScript.",
+        "projectDetails": "This is a accounting website income, expenses calculation using vanilla JavaScript.This is a book searching website using a Rest API for finding any known books all over the world",
+        "projectIMG": "https://i.ibb.co/mzNSntC/money-master.png",
+        "projectIMG2": "",
+        "projectIMG3": "",
+        "projectLiveSite": "https://master-of-finance.netlify.app/",
+        "projectClientCode": "https://github.com/Aburaian/money-master",
+        "projectServerCode": ""
+    },
+    {
+        "projectId": "4",
+        "projectName": "Mobile Corner",
+        "projectType": "Mobile Searching API",
+        "projectCategory": "Javascript",
+        "projectTime": "March, 2022",
+        "projectDescription": "This is a Phone searching website using a Rest API for finding any known phones all over the world",
+        "projectDetails": "This is a phone searching website using a Rest API for finding any known phones all over the world",
+        "projectIMG": "https://i.ibb.co/cwnXwG6/Mobile-Corner.png",
+        "projectIMG2": "",
+        "projectIMG3": "",
+        "projectLiveSite": "https://mobile-corner-six.netlify.app/",
+        "projectClientCode": "https://github.com/Aburaian/Mobile-Corner",
+        "projectServerCode": ""
+    },
+    {
+        "projectId": "5",
+        "projectName": "Laptop Shop",
+        "projectType": "Bootstrap E-commerce",
+        "projectCategory": "Javascript",
+        "projectTime": "April, 2022",
+        "projectDescription": "This is a store/e-commerce website shopping cart calculation using vanilla JavaScript.",
+        "projectDetails": "This is a store/e-commerce website shopping cart calculation using vanilla JavaScript.",
+        "projectIMG": "https://i.ibb.co/m6wnxds/laptop-shop.png",
+        "projectIMG2": "",
+        "projectIMG3": "",
+        "projectLiveSite": "https://laptop-shop-8.netlify.app/",
+        "projectClientCode": "https://github.com/Aburaian/laptop-shop",
+        "projectServerCode": ""
+    },
+    {
+        "projectId": "6",
+        "projectName": "Raian Learning Home",
+        "projectType": "Education Service",
+        "projectCategory": "React",
+        "projectTime": "May, 2022",
+        "projectDescription": "This is a eduction website shopping using react, vanilla JavaScript.",
+        "projectDetails": "This is a eduction website shopping using react, vanilla JavaScript.",
+        "projectIMG": "https://i.ibb.co/t3QK74Q/raian-learning-home.png",
+        "projectIMG2": "",
+        "projectIMG3": "",
+        "projectLiveSite": "https://raian-learning-home.web.app/",
+        "projectClientCode": "https://github.com/Aburaian/Raian-Learning-Home",
+        "projectServerCode": ""
+    },
+    {
+        "projectId": "7",
+        "projectName": "Computer Shop",
+        "projectType": "Computer Reviews functionality",
+        "projectCategory": "React",
+        "projectTime": "May, 2022",
+        "projectDescription": "This is a computer reviews website using react, react router, vanilla JavaScript.",
+        "projectDetails": "This is a computer reviews website using react, react router, vanilla JavaScript.",
+        "projectIMG": "https://i.ibb.co/LNLW5Tr/computer-reviews.png",
+        "projectIMG2": "",
+        "projectIMG3": "",
+        "projectLiveSite": "https://computer-reviews-9.netlify.app/",
+        "projectClientCode": "https://github.com/Aburaian/Computer-Shop-Reviews",
+        "projectServerCode": ""
+    },
+   
+     
+
+    {
+        "projectId": "8",
+        "projectName": "Electronics Warehouse",
+        "projectType": "E-commerce",
+        "projectCategory": "Fullstack",
+        "projectTime": "June, 2022",
+        "projectDescription": "This is a store/e-commerce website shopping cart calculation using vanilla JavaScript.",
+        "projectDetails": "This is a store/e-commerce website shopping cart calculation using vanilla JavaScript.",
+        "projectIMG": "https://i.ibb.co/QcWM2Ds/screencapture-warehouse.png",
+        "projectIMG2": "",
+        "projectIMG3": "",
+        "projectLiveSite": "https://warehouse-client-side-de85b.web.app/",
+        "projectClientCode": "https://github.com/Aburaian/Electronics-Warehouse-client-side",
+        "projectServerCode": "https://github.com/Aburaian/Electronics-Warehouse-server-side"
+    }
+    
+
+]
